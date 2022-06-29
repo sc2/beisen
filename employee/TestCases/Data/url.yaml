@@ -1,0 +1,18 @@
+-
+  data:
+    url_login: http://openapi.italent.link/Account/Account/LogInITalent
+    data_login:
+      name: an@xiaopeng.cn
+      password: beisen123456
+    url_token: http://openapi.italent.link/token
+    headers_token:
+      Content-Type: application/x-www-form-urlencoded
+    data_token:
+      grant_type: client_credentials
+      app_key: JFFxJwwTQMBtKivEJTM7VNZfwXVXFQ87
+      app_secret: gaaxb4hBSwiToXc6Do9cs3Avw3QYuu4lDGB6u5tQOsLrbz2E9TWCgNPdPf2Zc0GX
+
+
+
+
+
